@@ -1,1 +1,3 @@
-# dart_basic_1
+# Mastering Dart Part One
+
+Contains 4 simple Console App
